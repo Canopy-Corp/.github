@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Canopy Corp</h1>
-  <p><b>Advanced Systems Architecture & High-Performance Computing</b></p>
+  <img src="canopy.png" alt="Canopy Corp Core" width="150" height="150" />
+  <h3 style="border-bottom: none; margin-bottom: 0;">CANOPY CORP</h3>
+  <p>Advanced Systems Architecture & High-Performance Computing</p>
 </div>
 
 ---
