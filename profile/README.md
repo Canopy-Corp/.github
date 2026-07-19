@@ -21,5 +21,4 @@ Canopy Corp operates as a specialized systems engineering and research entity de
 ---
 <div align="center">
   <i>"Engineered Layer Integrity."</i><br>
-  Bhubaneswar, IN
 </div>
